@@ -1,0 +1,363 @@
+[
+  {
+    "slug": "lawyers-1",
+    "status": "synced",
+    "startedAt": "2026-09-16T00:49:08.713Z",
+    "sourcePage": "https://www.canva.com/design/DAEwJ9SBQic/KPXuPC3rwU5RS-PtR0M1UQ/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T00:49:27.617Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwJ9SBQic/KPXuPC3rwU5RS-PtR0M1UQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ9SBQic/KPXuPC3rwU5RS-PtR0M1UQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ9SBQic/KPXuPC3rwU5RS-PtR0M1UQ/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "travel-agency-tourism-1",
+    "status": "synced",
+    "startedAt": "2026-09-16T00:49:27.640Z",
+    "sourcePage": "https://www.canva.com/design/DAEwJ6sh81E/gMnSpHoBtnviQhGdBn2AAw/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T00:49:54.836Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwJ6sh81E/gMnSpHoBtnviQhGdBn2AAw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ6sh81E/gMnSpHoBtnviQhGdBn2AAw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ6sh81E/gMnSpHoBtnviQhGdBn2AAw/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "real-estate-agent-3",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:49:54.892Z",
+    "finishedAt": "2026-09-16T00:49:55.478Z",
+    "error": "page.goto: net::ERR_NETWORK_CHANGED at https://www.canva.com/design/DAEwJ7Gb57U/uo_mApVxJdmOhPLkp1y-7A/view?mode=preview\nCall log:\n\u001b[2m  - navigating to \"https://www.canva.com/design/DAEwJ7Gb57U/uo_mApVxJdmOhPLkp1y-7A/view?mode=preview\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "slug": "aromatherapy-2",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:49:55.528Z",
+    "finishedAt": "2026-09-16T00:49:57.079Z",
+    "error": "page.goto: Navigation to \"https://www.canva.com/design/DAEwJwcwQYQ/60cK2xBJcBSAj2kTYmcJWw/view?mode=preview\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n\u001b[2m  - navigating to \"https://www.canva.com/design/DAEwJwcwQYQ/60cK2xBJcBSAj2kTYmcJWw/view?mode=preview\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "slug": "craftsmanship-2",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:49:57.087Z",
+    "finishedAt": "2026-09-16T00:49:57.854Z",
+    "error": "page.goto: Navigation to \"https://www.canva.com/design/DAEwJ1PYis0/FttJkr8zYdd-nDgc5QcgJw/view?mode=preview\" is interrupted by another navigation to \"https://www.canva.com/design/DAEwJwcwQYQ/60cK2xBJcBSAj2kTYmcJWw/view?mode=preview\"\nCall log:\n\u001b[2m  - navigating to \"https://www.canva.com/design/DAEwJ1PYis0/FttJkr8zYdd-nDgc5QcgJw/view?mode=preview\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "slug": "financial-and-legal-advice-4",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:49:57.856Z",
+    "finishedAt": "2026-09-16T00:49:58.592Z",
+    "error": "page.goto: Navigation to \"https://www.canva.com/design/DAEwKPl3fjk/_JktJ5hNGi2kEgY73pih1Q/view?mode=preview\" is interrupted by another navigation to \"https://www.canva.com/design/DAEwJ1PYis0/FttJkr8zYdd-nDgc5QcgJw/view?mode=preview\"\nCall log:\n\u001b[2m  - navigating to \"https://www.canva.com/design/DAEwKPl3fjk/_JktJ5hNGi2kEgY73pih1Q/view?mode=preview\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "slug": "barbershop-3",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:49:58.593Z",
+    "finishedAt": "2026-09-16T00:49:59.202Z",
+    "error": "page.goto: Navigation to \"https://www.canva.com/design/DAEwJ7P0SfU/T1Y6bT5-0_-7bIF86d1Nmg/view?mode=preview\" is interrupted by another navigation to \"https://www.canva.com/design/DAEwKPl3fjk/_JktJ5hNGi2kEgY73pih1Q/view?mode=preview\"\nCall log:\n\u001b[2m  - navigating to \"https://www.canva.com/design/DAEwJ7P0SfU/T1Y6bT5-0_-7bIF86d1Nmg/view?mode=preview\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "slug": "beauty-body-hair-removal-2",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:49:59.204Z",
+    "finishedAt": "2026-09-16T00:50:00.068Z",
+    "error": "page.goto: Navigation to \"https://www.canva.com/design/DAEwJ8Q3wMI/nqMU72vjhk-maWUrNBE2QQ/view?mode=preview\" is interrupted by another navigation to \"https://www.canva.com/design/DAEwJ7P0SfU/T1Y6bT5-0_-7bIF86d1Nmg/view?mode=preview\"\nCall log:\n\u001b[2m  - navigating to \"https://www.canva.com/design/DAEwJ8Q3wMI/nqMU72vjhk-maWUrNBE2QQ/view?mode=preview\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "slug": "beauty-aesthetics-spa-3",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:00.069Z",
+    "finishedAt": "2026-09-16T00:50:00.593Z",
+    "error": "page.goto: Navigation to \"https://www.canva.com/design/DAEwKP5hkBM/R3XpcvXSPN9KExR6oTBtRA/view?mode=preview\" is interrupted by another navigation to \"https://www.canva.com/design/DAEwJ8Q3wMI/nqMU72vjhk-maWUrNBE2QQ/view?mode=preview\"\nCall log:\n\u001b[2m  - navigating to \"https://www.canva.com/design/DAEwKP5hkBM/R3XpcvXSPN9KExR6oTBtRA/view?mode=preview\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "slug": "beauty-esthetics-spa-7",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:00.603Z",
+    "finishedAt": "2026-09-16T00:50:49.578Z",
+    "error": "page.goto: net::ERR_ABORTED at https://www.canva.com/design/DAEwKSYw1H4/3y_e6LC7RPThL-GysugXQw/view?mode=preview\nCall log:\n\u001b[2m  - navigating to \"https://www.canva.com/design/DAEwKSYw1H4/3y_e6LC7RPThL-GysugXQw/view?mode=preview\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "slug": "beauty-makeup-1",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.597Z",
+    "finishedAt": "2026-09-16T00:50:49.598Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "shoes-tennis-heels-1",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.600Z",
+    "finishedAt": "2026-09-16T00:50:49.601Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "clinic-hospital-2",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.610Z",
+    "finishedAt": "2026-09-16T00:50:49.611Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "coach",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.613Z",
+    "finishedAt": "2026-09-16T00:50:49.614Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "lunch-restaurant-4",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.615Z",
+    "finishedAt": "2026-09-16T00:50:49.616Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "car-dealer-car-sales-2",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.628Z",
+    "finishedAt": "2026-09-16T00:50:49.629Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "dentist-1",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.630Z",
+    "finishedAt": "2026-09-16T00:50:49.630Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "mother-s-day-2",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.631Z",
+    "finishedAt": "2026-09-16T00:50:49.632Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "water-dispenser",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.634Z",
+    "finishedAt": "2026-09-16T00:50:49.635Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "e-commerce-electronic-products-2",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.637Z",
+    "finishedAt": "2026-09-16T00:50:49.638Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "school-academy-university-3",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.640Z",
+    "finishedAt": "2026-09-16T00:50:49.641Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "hardware-1",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.643Z",
+    "finishedAt": "2026-09-16T00:50:49.643Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "party-musical-band-2",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.644Z",
+    "finishedAt": "2026-09-16T00:50:49.644Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "photography",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.646Z",
+    "finishedAt": "2026-09-16T00:50:49.647Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "gastronomy-2",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.655Z",
+    "finishedAt": "2026-09-16T00:50:49.656Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "gym-4",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.658Z",
+    "finishedAt": "2026-09-16T00:50:49.659Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "burger-1",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.660Z",
+    "finishedAt": "2026-09-16T00:50:49.660Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "burger-5",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.662Z",
+    "finishedAt": "2026-09-16T00:50:49.663Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "burger-9",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.668Z",
+    "finishedAt": "2026-09-16T00:50:49.669Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "it",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.670Z",
+    "finishedAt": "2026-09-16T00:50:49.671Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "jesus-god-religion-2",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.673Z",
+    "finishedAt": "2026-09-16T00:50:49.674Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "bookstore",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.676Z",
+    "finishedAt": "2026-09-16T00:50:49.676Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "digital-marketing-community-manager-4",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.678Z",
+    "finishedAt": "2026-09-16T00:50:49.679Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "minimarket-1",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.680Z",
+    "finishedAt": "2026-09-16T00:50:49.681Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "company",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.697Z",
+    "finishedAt": "2026-09-16T00:50:49.698Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "nutrition-4",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.700Z",
+    "finishedAt": "2026-09-16T00:50:49.701Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "dentistry-4",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.704Z",
+    "finishedAt": "2026-09-16T00:50:49.706Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "pizzeria-3",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.709Z",
+    "finishedAt": "2026-09-16T00:50:49.710Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "pizzeria-7",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.711Z",
+    "finishedAt": "2026-09-16T00:50:49.713Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "desserts-and-ice-cream-1",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.715Z",
+    "finishedAt": "2026-09-16T00:50:49.716Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "desserts-and-ice-cream-5",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.717Z",
+    "finishedAt": "2026-09-16T00:50:49.718Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "psychology-4",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.720Z",
+    "finishedAt": "2026-09-16T00:50:49.722Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "sushi-bar-02",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.724Z",
+    "finishedAt": "2026-09-16T00:50:49.724Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "tequenos-and-empanadas",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.726Z",
+    "finishedAt": "2026-09-16T00:50:49.727Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "clothing-store-4",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.729Z",
+    "finishedAt": "2026-09-16T00:50:49.730Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "veterinarian-1",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.731Z",
+    "finishedAt": "2026-09-16T00:50:49.733Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  },
+  {
+    "slug": "vet-5",
+    "status": "failed",
+    "startedAt": "2026-09-16T00:50:49.738Z",
+    "finishedAt": "2026-09-16T00:50:49.740Z",
+    "error": "page.goto: Target page, context or browser has been closed"
+  }
+]

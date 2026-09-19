@@ -1,0 +1,876 @@
+[
+  {
+    "slug": "nutrition-2",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:03:17.441Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKZsdF5c/zW_ioPv6w036qLZXQ4D9pA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:03:28.568Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKZsdF5c/zW_ioPv6w036qLZXQ4D9pA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKZsdF5c/zW_ioPv6w036qLZXQ4D9pA/view?mode=preview",
+        "type": "rendered-detail-north"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKZsdF5c/zW_ioPv6w036qLZXQ4D9pA/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "nutrition-4",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:03:28.574Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKSnyMqk/2i5DPGnTcPxTMmQbAoTJ4g/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:03:37.516Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKSnyMqk/2i5DPGnTcPxTMmQbAoTJ4g/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKSnyMqk/2i5DPGnTcPxTMmQbAoTJ4g/view?mode=preview",
+        "type": "rendered-detail-north"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKSnyMqk/2i5DPGnTcPxTMmQbAoTJ4g/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "dentistry-2",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:03:37.530Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKYnV2MQ/xumg0vz034NBmeG9IKXxlQ/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:03:46.059Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKYnV2MQ/xumg0vz034NBmeG9IKXxlQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKYnV2MQ/xumg0vz034NBmeG9IKXxlQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKYnV2MQ/xumg0vz034NBmeG9IKXxlQ/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "dentistry-4",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:03:46.109Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKSunkL0/KK0fxAcIO7bgaCsVKWM8LA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:03:59.505Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKSunkL0/KK0fxAcIO7bgaCsVKWM8LA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKSunkL0/KK0fxAcIO7bgaCsVKWM8LA/view?mode=preview",
+        "type": "rendered-detail-north"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKSunkL0/KK0fxAcIO7bgaCsVKWM8LA/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "pizzeria-1",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:03:59.508Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKvqq6hg/Gcr2Xdn69LJZCkBDtf48ig/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:04:05.443Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKvqq6hg/Gcr2Xdn69LJZCkBDtf48ig/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKvqq6hg/Gcr2Xdn69LJZCkBDtf48ig/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKvqq6hg/Gcr2Xdn69LJZCkBDtf48ig/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "pizzeria-3",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:04:05.446Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKgFke90/rGzr6bmhMktc-9tri2YXUg/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:04:12.282Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKgFke90/rGzr6bmhMktc-9tri2YXUg/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKgFke90/rGzr6bmhMktc-9tri2YXUg/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKgFke90/rGzr6bmhMktc-9tri2YXUg/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "pizzeria-5",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:04:12.286Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKhNaKAs/hObCnTCHRLiaFA4hW5-5KA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:04:21.069Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKhNaKAs/hObCnTCHRLiaFA4hW5-5KA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKhNaKAs/hObCnTCHRLiaFA4hW5-5KA/view?mode=preview",
+        "type": "rendered-detail-north"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKhNaKAs/hObCnTCHRLiaFA4hW5-5KA/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "pizzeria-7",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:04:21.075Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKvy9vgM/WmLa19Pa5dhM5lUjhtlazA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:04:28.892Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKvy9vgM/WmLa19Pa5dhM5lUjhtlazA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKvy9vgM/WmLa19Pa5dhM5lUjhtlazA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKvy9vgM/WmLa19Pa5dhM5lUjhtlazA/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "stencils-various",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:04:28.910Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKVhhKIM/0S-kJrRiwAg_5KEvesokdQ/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:05:15.470Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKVhhKIM/0S-kJrRiwAg_5KEvesokdQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKVhhKIM/0S-kJrRiwAg_5KEvesokdQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKVhhKIM/0S-kJrRiwAg_5KEvesokdQ/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "desserts-and-ice-cream-1",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:05:15.474Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKqm0M_s/4cXe6YHsR9KFBHCkl8C1Bg/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:05:22.320Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKqm0M_s/4cXe6YHsR9KFBHCkl8C1Bg/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKqm0M_s/4cXe6YHsR9KFBHCkl8C1Bg/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKqm0M_s/4cXe6YHsR9KFBHCkl8C1Bg/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "desserts-and-ice-cream-3",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:05:22.321Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKmWn_Ms/DBklfLgK7gADEAa1Y1sUYw/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:05:38.697Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKmWn_Ms/DBklfLgK7gADEAa1Y1sUYw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKmWn_Ms/DBklfLgK7gADEAa1Y1sUYw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKmWn_Ms/DBklfLgK7gADEAa1Y1sUYw/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "desserts-and-ice-cream-5",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:05:38.698Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKglMrJE/s97156ninM8INRLlUmh_pA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:06:02.833Z",
+    "sources": [
+      {
+        "url": "https://media.canva.com/v2/image-resize/format:PNG/height:800/quality:100/uri:ifs%3A%2F%2FM%2FGy_uQutuWoeWo0b3rHhe-lLp2VrW-gRN0QprrjHCgZs.png/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAAGZhINtN6SwNfWmRK8RcD0ZxSwbxaipK6B80C4dI1ANq&exp=1789536035&osig=AAAAAAAAAAAAAAAAAAAAAG8AJG6I0Rm8ggurgMYus_OVWHI6RwSnCgp9wuzVcAil&signer=media-rpc&x-canva-quality=screen",
+        "type": "img"
+      },
+      {
+        "url": "https://media.canva.com/v2/image-resize/format:PNG/height:800/quality:100/uri:ifs%3A%2F%2FM%2FJG13PR9CUbdxkxNv7NVjyE2oyTfbX_9SskrZ7-SHBbQ.png/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAAH1P59j17DEHmG5c-Wfjjcf6CqT7A_uUfQA09hpqvQGH&exp=1789538427&osig=AAAAAAAAAAAAAAAAAAAAAOfsioSm5KeOzMXatOOdOMCpYBwtF9Y_Pv2lLWvyGWm7&signer=media-rpc&x-canva-quality=screen",
+        "type": "img"
+      },
+      {
+        "url": "https://media.canva.com/v2/image-resize/format:PNG/height:800/quality:100/uri:ifs%3A%2F%2FM%2Fk9I1b_vYufYWz3TycQjb-sMpHWsdK2U2GnhbI2P5XQc.png/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAAL4Nq1285kQ7vgX8ytq55POCbaA2M969oPdNNu-EWELP&exp=1789538496&osig=AAAAAAAAAAAAAAAAAAAAAKiZB7RmOMzP-X9NgvPkRQcuwDtJwsiP6G56waRS6xrI&signer=media-rpc&x-canva-quality=screen",
+        "type": "img"
+      }
+    ]
+  },
+  {
+    "slug": "psychology-2",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:06:02.834Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKQBXh_U/i4QWSy-ePxkUID1etTK7Iw/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:06:11.265Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKQBXh_U/i4QWSy-ePxkUID1etTK7Iw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKQBXh_U/i4QWSy-ePxkUID1etTK7Iw/view?mode=preview",
+        "type": "rendered-detail-north"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKQBXh_U/i4QWSy-ePxkUID1etTK7Iw/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "psychology-3",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:06:11.266Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKWkQRuc/bxdPZ1Zi8bnvLLt30GrFZA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:06:20.275Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKWkQRuc/bxdPZ1Zi8bnvLLt30GrFZA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKWkQRuc/bxdPZ1Zi8bnvLLt30GrFZA/view?mode=preview",
+        "type": "rendered-detail-north"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKWkQRuc/bxdPZ1Zi8bnvLLt30GrFZA/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "psychology-4",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:06:20.276Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKfSg8v8/3lCdpnPYgOxEutgr6XgrQg/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:06:42.047Z",
+    "sources": [
+      {
+        "url": "https://media.canva.com/v2/image-resize/format:JPG/height:417/quality:92/uri:ifs%3A%2F%2FM%2FUNx7jxclfg52BwD3Y9OBBamGhehTTLIHFHPUxIZVsBE.jpg/watermark:F/width:626?csig=AAAAAAAAAAAAAAAAAAAAAGou52DPIoHq2Ni3oX6LE09ITgymJCCDQzfhbydmA9Pp&exp=1789535353&osig=AAAAAAAAAAAAAAAAAAAAAEc0VS9BFUa5AdpOnbAVHm7iCdCllStLK49O-oYHY7V2&signer=media-rpc&x-canva-quality=screen_3x",
+        "type": "img"
+      },
+      {
+        "url": "https://media.canva.com/v2/image-resize/format:JPG/height:626/quality:92/uri:ifs%3A%2F%2FM%2FUMWtHNNHeSEAYIdG5nD5R6bYYoZaVI5izQ4PQVu79ww.jpg/watermark:F/width:417?csig=AAAAAAAAAAAAAAAAAAAAAGjBeZKK4UGat7gwd6XDnb_juPVHsg6PTPsbJJXugaCA&exp=1789537467&osig=AAAAAAAAAAAAAAAAAAAAAFUFoVbktT7L8dS2JKuLirIYh7ffSy9CgONzDWxg1xNZ&signer=media-rpc&x-canva-quality=screen_3x",
+        "type": "img"
+      },
+      {
+        "url": "https://media.canva.com/v2/image-resize/format:JPG/height:417/quality:92/uri:ifs%3A%2F%2FM%2FqkMg4Ul9CFy87fZjZXPZWoelfHofS37n4EElm3_m9cM.jpg/watermark:F/width:626?csig=AAAAAAAAAAAAAAAAAAAAAHv3UmwIf7FWTVVdcO2CvJX6trfXzE7ZEL4S8ymVfVou&exp=1789535497&osig=AAAAAAAAAAAAAAAAAAAAAE3lCTKFcRSHUlwPw_r3V7_xSo9yZF6OI9W4SOM5kl1L&signer=media-rpc&x-canva-quality=screen_3x",
+        "type": "img"
+      }
+    ]
+  },
+  {
+    "slug": "internet-service-1",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:06:42.048Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKFu0ncI/i7NwKWouoWCKFmCUEyy3iA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:06:48.237Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKFu0ncI/i7NwKWouoWCKFmCUEyy3iA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKFu0ncI/i7NwKWouoWCKFmCUEyy3iA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKFu0ncI/i7NwKWouoWCKFmCUEyy3iA/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "internet-service-2",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:06:48.239Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKZZieXE/XkbRT_CRqfsRhpaG8zq4TQ/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:06:55.499Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKZZieXE/XkbRT_CRqfsRhpaG8zq4TQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKZZieXE/XkbRT_CRqfsRhpaG8zq4TQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKZZieXE/XkbRT_CRqfsRhpaG8zq4TQ/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "sushi-bar-01",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:06:55.500Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKobxaBc/qDQLhotx77vtVQKeL8erOw/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:07:01.697Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKobxaBc/qDQLhotx77vtVQKeL8erOw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKobxaBc/qDQLhotx77vtVQKeL8erOw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKobxaBc/qDQLhotx77vtVQKeL8erOw/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "sushi-bar-02",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:07:01.699Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKio6vuY/Pj1GCTCJ7FuS3kOhafIJ2g/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:07:07.819Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKio6vuY/Pj1GCTCJ7FuS3kOhafIJ2g/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKio6vuY/Pj1GCTCJ7FuS3kOhafIJ2g/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKio6vuY/Pj1GCTCJ7FuS3kOhafIJ2g/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "mobile-phone-repair-technician-1",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:07:07.820Z",
+    "sourcePage": "https://www.canva.com/design/DAEwJ7dqLUA/HTIiOhH6clS2YaBmFM4t2Q/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:07:13.898Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwJ7dqLUA/HTIiOhH6clS2YaBmFM4t2Q/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ7dqLUA/HTIiOhH6clS2YaBmFM4t2Q/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ7dqLUA/HTIiOhH6clS2YaBmFM4t2Q/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "mobile-phone-repair-technician-2",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:07:13.899Z",
+    "sourcePage": "https://www.canva.com/design/DAEwJ9XKwAk/CJ11fRtuqbUMcMvPZfnJGw/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:07:19.658Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwJ9XKwAk/CJ11fRtuqbUMcMvPZfnJGw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ9XKwAk/CJ11fRtuqbUMcMvPZfnJGw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ9XKwAk/CJ11fRtuqbUMcMvPZfnJGw/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "cell-phone-repair-technician-3",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:07:19.659Z",
+    "sourcePage": "https://www.canva.com/design/DAEwJ4BKZeY/Lo2v6LwbLOso4lw1ieDXNw/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:07:25.490Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwJ4BKZeY/Lo2v6LwbLOso4lw1ieDXNw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ4BKZeY/Lo2v6LwbLOso4lw1ieDXNw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ4BKZeY/Lo2v6LwbLOso4lw1ieDXNw/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "tequenos-and-empanadas",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:07:25.491Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKnWvwWM/xrLhlUnsQcYU5lQ-iKz-8Q/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:07:30.961Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKnWvwWM/xrLhlUnsQcYU5lQ-iKz-8Q/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKnWvwWM/xrLhlUnsQcYU5lQ-iKz-8Q/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKnWvwWM/xrLhlUnsQcYU5lQ-iKz-8Q/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "clothing-store-1",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:07:30.961Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKSvRn14/ePzUrhJJd0UGUheYaQRqFA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:07:36.420Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKSvRn14/ePzUrhJJd0UGUheYaQRqFA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKSvRn14/ePzUrhJJd0UGUheYaQRqFA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKSvRn14/ePzUrhJJd0UGUheYaQRqFA/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "clothing-store-2",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:07:36.421Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKdpd_9U/wO9WalGGHFwywrWhA5B2mg/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:07:42.387Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKdpd_9U/wO9WalGGHFwywrWhA5B2mg/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKdpd_9U/wO9WalGGHFwywrWhA5B2mg/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKdpd_9U/wO9WalGGHFwywrWhA5B2mg/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "clothing-store-3",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:07:42.389Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKYu1-TI/1xo8_Z6KgRpOFI9XAD0eYw/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:07:48.220Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKYu1-TI/1xo8_Z6KgRpOFI9XAD0eYw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKYu1-TI/1xo8_Z6KgRpOFI9XAD0eYw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKYu1-TI/1xo8_Z6KgRpOFI9XAD0eYw/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "clothing-store-4",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:07:48.221Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKRN0NNE/xM81dMpd29Id1O__Jw9fww/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:07:59.019Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKRN0NNE/xM81dMpd29Id1O__Jw9fww/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKRN0NNE/xM81dMpd29Id1O__Jw9fww/view?mode=preview",
+        "type": "rendered-detail-north"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKRN0NNE/xM81dMpd29Id1O__Jw9fww/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "drinks-spirits-and-beer-1",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:07:59.021Z",
+    "sourcePage": "https://www.canva.com/design/DAEwJ2_6oDE/-AP4lzrHibWxmCNiKGZWCQ/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:08:07.638Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwJ2_6oDE/-AP4lzrHibWxmCNiKGZWCQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ2_6oDE/-AP4lzrHibWxmCNiKGZWCQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ2_6oDE/-AP4lzrHibWxmCNiKGZWCQ/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "beverages-spirits-and-beer-2",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:08:07.639Z",
+    "sourcePage": "https://www.canva.com/design/DAEwJ1RjvIc/AwP5XQAkEPVF1_vY9ah8gA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:08:14.094Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwJ1RjvIc/AwP5XQAkEPVF1_vY9ah8gA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ1RjvIc/AwP5XQAkEPVF1_vY9ah8gA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ1RjvIc/AwP5XQAkEPVF1_vY9ah8gA/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "beverages-spirits-and-beer-3",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:08:14.096Z",
+    "sourcePage": "https://www.canva.com/design/DAEwJ7aHW1s/lKfw8_dDJGOWSTILXTgzfg/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:08:19.838Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwJ7aHW1s/lKfw8_dDJGOWSTILXTgzfg/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ7aHW1s/lKfw8_dDJGOWSTILXTgzfg/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwJ7aHW1s/lKfw8_dDJGOWSTILXTgzfg/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "veterinarian-1",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:08:19.840Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKXk6-14/6vRz8DgVmiwrZj5Kzxi-dQ/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:08:28.960Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKXk6-14/6vRz8DgVmiwrZj5Kzxi-dQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKXk6-14/6vRz8DgVmiwrZj5Kzxi-dQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKXk6-14/6vRz8DgVmiwrZj5Kzxi-dQ/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "veterinarian-2",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:08:28.961Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKeeLBCE/EXVGyHojNvbC5GxkqIOzhA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:08:34.236Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKeeLBCE/EXVGyHojNvbC5GxkqIOzhA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKeeLBCE/EXVGyHojNvbC5GxkqIOzhA/view?mode=preview",
+        "type": "rendered-detail-north"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKeeLBCE/EXVGyHojNvbC5GxkqIOzhA/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "veterinarian-3",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:08:34.237Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKRcVX1o/RavW_NysvY63rsfka6AmVw/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:08:56.143Z",
+    "sources": [
+      {
+        "url": "https://static.canva.com/web/images/87e22a62965f141aa08e93699b0b3527.jpg",
+        "type": "img"
+      },
+      {
+        "url": "https://media.canva.com/v2/image-resize/format:PNG/height:800/quality:100/uri:ifs%3A%2F%2FM%2FjPC_gNddfxIbsGseKluzxLdCZuTCVFD0l7mwmL03pB8.png/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAADzBsWL1oHXfJei9j_IC7hEESN-tiSnI7Qlwfufh4FYr&exp=1789537511&osig=AAAAAAAAAAAAAAAAAAAAAHD5usibVhHZJ5D0n26bEp2fkHFWLUnSFhDx2c__PA2y&signer=media-rpc&x-canva-quality=screen",
+        "type": "img"
+      },
+      {
+        "url": "https://media.canva.com/v2/image-resize/format:PNG/height:800/quality:100/uri:ifs%3A%2F%2FM%2FWzmjbiAYfB5KctgLc1BtxwcPiCWJ2tfwymagbRI6NVI.png/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAAJ6VAaAKXmzvhx3E1E8ZmmjbgohUVAPa5UdFr0213gVS&exp=1789535692&osig=AAAAAAAAAAAAAAAAAAAAADE_6kIhGlqzVjSd_WfzOj9gz9EfGH51wtNqaBNpmrHF&signer=media-rpc&x-canva-quality=screen",
+        "type": "img"
+      }
+    ]
+  },
+  {
+    "slug": "vet-4",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:08:56.144Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKYDzvWI/Wlv0bBXYKq-EkAu6-K4eyQ/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:09:02.975Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKYDzvWI/Wlv0bBXYKq-EkAu6-K4eyQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKYDzvWI/Wlv0bBXYKq-EkAu6-K4eyQ/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKYDzvWI/Wlv0bBXYKq-EkAu6-K4eyQ/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  },
+  {
+    "slug": "vet-5",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:09:02.977Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKfIUCtc/kNHsQ2cioCwMW4mKdzwFTw/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:09:08.202Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKfIUCtc/kNHsQ2cioCwMW4mKdzwFTw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKfIUCtc/kNHsQ2cioCwMW4mKdzwFTw/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKfIUCtc/kNHsQ2cioCwMW4mKdzwFTw/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "veterinarian-6",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:09:08.203Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKToZY_0/8Ghc2ao-4kECrTfjkl0cFA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:09:14.403Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKToZY_0/8Ghc2ao-4kECrTfjkl0cFA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKToZY_0/8Ghc2ao-4kECrTfjkl0cFA/view?mode=preview",
+        "type": "rendered-detail-north"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKToZY_0/8Ghc2ao-4kECrTfjkl0cFA/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "veterinarian-7",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:09:14.404Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKX7SSVU/ieQxsBaK9Xr6PKGcxva9uA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:09:19.735Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKX7SSVU/ieQxsBaK9Xr6PKGcxva9uA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKX7SSVU/ieQxsBaK9Xr6PKGcxva9uA/view?mode=preview",
+        "type": "rendered-detail-north"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKX7SSVU/ieQxsBaK9Xr6PKGcxva9uA/view?mode=preview",
+        "type": "rendered-detail-south"
+      }
+    ]
+  },
+  {
+    "slug": "veterinarian-8",
+    "status": "synced",
+    "startedAt": "2026-09-16T01:09:19.736Z",
+    "sourcePage": "https://www.canva.com/design/DAEwKf-ZXak/FFhhR8l9-O0BSuRFvdCHcA/view?mode=preview",
+    "width": 1200,
+    "height": 900,
+    "syncedAt": "2026-09-16T01:09:25.927Z",
+    "sources": [
+      {
+        "url": "https://www.canva.com/design/DAEwKf-ZXak/FFhhR8l9-O0BSuRFvdCHcA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKf-ZXak/FFhhR8l9-O0BSuRFvdCHcA/view?mode=preview",
+        "type": "rendered-design"
+      },
+      {
+        "url": "https://www.canva.com/design/DAEwKf-ZXak/FFhhR8l9-O0BSuRFvdCHcA/view?mode=preview",
+        "type": "rendered-design"
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+EzyTemplate Full Backend Package
+===============================
+Created: 2026-09-13T18:38:51
+
+Included catalog:
+- 188 Canva templates
+- 117 Office templates
+- Total catalog records: 305
+
+Included media/files:
+- Canva preview/media files: 752
+- Office preview images: 468
+- Office downloadable source files: 117
+
+Database:
+- Laravel migrations
+- CanvaTemplatesSeeder
+- OfficeTemplateLibrarySeeder
+- JSON data for Canva and Office catalogs
+- SQL data-only imports
+- Combined Canva + Office SQL
+
+Security:
+- .env is NOT included
+- Use your production .env on the server
+
+Deployment:
+1. composer install --no-dev --optimize-autoloader
+2. php artisan migrate --force
+3. php artisan db:seed --class=CanvaTemplatesSeeder --force
+4. php artisan db:seed --class=OfficeTemplateLibrarySeeder --force
+5. php artisan storage:link
+6. php artisan optimize:clear

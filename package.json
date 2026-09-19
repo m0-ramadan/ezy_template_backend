@@ -1,0 +1,13 @@
+{
+  "name": "ezytemplate-canva-preview-sync",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "canva:sync-previews": "node scripts/fetch_canva_previews.mjs .",
+    "canva:sync-real-media": "node scripts/sync_canva_real_media.mjs ."
+  },
+  "devDependencies": {
+    "playwright": "^1.55.0",
+    "sharp": "^0.34.3"
+  }
+}

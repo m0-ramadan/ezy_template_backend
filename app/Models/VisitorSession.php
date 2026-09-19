@@ -1,0 +1,1 @@
+<?php namespace App\Models; use Illuminate\Database\Eloquent\Model; class VisitorSession extends Model {protected $fillable=['visitor_hash','session_id','ip_address','user_agent','device_type','browser','os','country','city','first_seen','last_seen','page_views','download_count']; protected $casts=['first_seen'=>'datetime','last_seen'=>'datetime'];}

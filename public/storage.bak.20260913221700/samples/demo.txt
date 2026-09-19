@@ -1,0 +1,1 @@
+EzyTemplate demo resource file. Replace this sample with the real downloadable asset from the admin dashboard.

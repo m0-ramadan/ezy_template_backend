@@ -1,0 +1,3 @@
+<?php
+use Illuminate\Database\Migrations\Migration; use Illuminate\Database\Schema\Blueprint; use Illuminate\Support\Facades\Schema;
+return new class extends Migration { public function up():void{Schema::create('file_views',function(Blueprint $t){$t->id();$t->foreignId('resource_file_id')->constrained()->cascadeOnDelete();$t->foreignId('resource_id')->constrained()->cascadeOnDelete();$t->string('visitor_hash',64)->index();$t->string('session_id',100)->nullable();$t->foreignId('user_id')->nullable()->constrained()->nullOnDelete();$t->string('ip_address',45)->nullable();$t->text('user_agent')->nullable();$t->timestamp('created_at')->useCurrent();$t->index(['resource_file_id','created_at']);});} public function down():void{Schema::dropIfExists('file_views');}};
