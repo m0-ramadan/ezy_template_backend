@@ -9,6 +9,7 @@ use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
+use Illuminate\Support\Str;
 
 class AuthController extends Controller
 {
@@ -62,8 +63,9 @@ class AuthController extends Controller
         // Successful Login
         LoginLog::log($request, $email, 'success', $user);
 
-        // Simple token generation (base64 random token)
-        $token = base64_encode($user->id . '|' . md5($user->email . time() . 'ezy_secret'));
+        // Opaque, cryptographically secure session identifier. API authorization
+        // should use Sanctum before protected user endpoints are introduced.
+        $token = Str::random(80);
 
         return response()->json([
             'ok'      => true,
