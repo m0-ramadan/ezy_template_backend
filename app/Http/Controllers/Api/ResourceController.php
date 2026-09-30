@@ -28,8 +28,19 @@ class ResourceController extends Controller
         if ($r->filled('category')) {
             $q->whereHas('category', fn($x) => $x->where('slug', $r->category));
         }
+        // Canva designs are a separate marketplace. The design marketplace
+        // excludes them so the two sections never double-count each other.
+        if ($r->boolean('exclude_canva')) {
+            $q->whereNull('canva_design_id')
+                ->whereDoesntHave('category', fn($c) => $c->where('slug', 'like', '%canva%'));
+        }
         if ($r->filled('subcategory')) {
-            $q->whereHas('subcategory', fn($x) => $x->where('slug', $r->subcategory));
+            // Accept either the exact stored slug ("excel-accounting") or the
+            // public, collection-scoped slug used in URLs ("accounting").
+            $slug = (string) $r->subcategory;
+            $q->whereHas('subcategory', function ($x) use ($slug) {
+                $x->where('slug', $slug)->orWhere('slug', 'like', '%-' . $slug);
+            });
         }
         if ($r->filled('platform')) {
             $platform = strtolower((string) $r->platform);

@@ -17,6 +17,8 @@ Route::get('/content/page/{key}', [CmsController::class, 'customPageByKey']);
 Route::get('/resources', [ResourceController::class, 'index']);
 Route::get('/resources/{slug}', [ResourceController::class, 'show']);
 Route::get('/categories', [CategoryController::class, 'index']);
+Route::get('/categories/{slug}', [CategoryController::class, 'show']);
+Route::get('/stats/catalog', \App\Http\Controllers\Api\CatalogStatsController::class);
 Route::get('/main-categories', [CategoryController::class, 'mainCategories']);
 Route::get('/articles', [ArticleController::class, 'index']);
 Route::get('/articles/{slug}', [ArticleController::class, 'show']);

@@ -7,6 +7,7 @@ use App\Models\Setting;
 use App\Models\Resource;
 use App\Models\Download;
 use App\Models\PageView;
+use App\Models\Review;
 use App\Models\VisitorSession;
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
@@ -33,17 +34,25 @@ class CmsController extends Controller
             'created_at' => now(),
         ]);
 
-        $downloads = max((int) Download::count(), (int) Resource::sum('downloads_count'));
+        $downloads = (int) Download::count();
         $visits = (int) PageView::count();
         $uniqueVisitors = (int) VisitorSession::count();
-        $templates = (int) (Resource::published()->count() ?: Resource::count());
-        $avgRating = round((float) (Resource::where('rating', '>', 0)->avg('rating') ?: 4.9), 1);
+        $templates = (int) Resource::published()->count();
+
+        // Ratings are only reported when real, approved reviews exist. There is
+        // deliberately no numeric fallback: inventing a rating is fabricated
+        // social proof.
+        $reviewsCount = (int) Review::where('status', 'approved')->count();
+        $avgRating = $reviewsCount > 0
+            ? round((float) Review::where('status', 'approved')->avg('rating'), 1)
+            : null;
 
         return response()->json([
             'downloads' => $downloads,
             'visits' => $visits,
             'unique_visitors' => $uniqueVisitors,
             'templates' => $templates,
+            'reviews' => $reviewsCount,
             'rating' => $avgRating,
         ]);
     }
@@ -78,10 +87,10 @@ class CmsController extends Controller
 
     public function about(): JsonResponse
     {
-        $downloads = max((int) Download::count(), (int) Resource::sum('downloads_count'));
+        // Every number below is derived from real rows. No fabricated fallbacks.
+        $downloads = (int) Download::count();
         $visits = (int) PageView::count();
-        $templates = (int) (Resource::published()->count() ?: Resource::count());
-        $avgRating = round((float) (Resource::where('rating', '>', 0)->avg('rating') ?: 4.9), 1);
+        $templates = (int) Resource::published()->count();
 
         $liveStats = [
             [
@@ -102,17 +111,24 @@ class CmsController extends Controller
                 'icon' => 'FileCode2',
                 'count' => number_format($templates) . '+',
                 'raw_count' => $templates,
-                'label' => 'Active Templates',
-                'label_ar' => 'قالب متاح',
+                'label' => 'Published Templates',
+                'label_ar' => 'قالب منشور',
             ],
-            [
+        ];
+
+        // A rating stat only exists when real approved reviews back it.
+        $reviewsCount = (int) Review::where('status', 'approved')->count();
+        if ($reviewsCount > 0) {
+            $avgRating = round((float) Review::where('status', 'approved')->avg('rating'), 1);
+            $liveStats[] = [
                 'icon' => 'Star',
                 'count' => $avgRating . ' / 5.0',
                 'raw_count' => $avgRating,
-                'label' => 'Average Rating',
+                'reviews_count' => $reviewsCount,
+                'label' => 'Average Rating (' . number_format($reviewsCount) . ' reviews)',
                 'label_ar' => 'متوسط التقييمات',
-            ],
-        ];
+            ];
+        }
 
         return response()->json([
             'hero' => Setting::get('about_hero', []),
