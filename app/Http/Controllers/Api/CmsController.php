@@ -59,6 +59,27 @@ class CmsController extends Controller
 
     public function settings(): JsonResponse
     {
+        $footerCols = Setting::get('footer_columns', []);
+        if (is_array($footerCols)) {
+            foreach ($footerCols as &$col) {
+                if (isset($col['links']) && is_array($col['links'])) {
+                    $col['links'] = array_values(array_filter($col['links'], function ($link) {
+                        $label = strtolower((string)($link['label'] ?? ''));
+                        $labelAr = strtolower((string)($link['label_ar'] ?? ''));
+                        $url = strtolower((string)($link['url'] ?? ''));
+                        if (str_contains($label, 'documentation') || str_contains($labelAr, 'الشروحات') || str_contains($url, 'doc')) {
+                            return false;
+                        }
+                        if (str_contains($url, 'cat=ui+kit') || $url === '/ui-kits' || $url === '/graphic-assets') {
+                            return false;
+                        }
+                        return true;
+                    }));
+                }
+            }
+            unset($col);
+        }
+
         return response()->json([
             'site_name' => Setting::get('site_name', 'EzyTemplate'),
             'site_tagline' => Setting::get('site_tagline', 'Beautiful Templates for Every Project'),
@@ -70,7 +91,7 @@ class CmsController extends Controller
             'footer_subtext' => Setting::get('footer_subtext', 'Build • Create • Share • Grow'),
             'social_links' => Setting::get('social_links', []),
             'header_nav_links' => Setting::get('header_nav_links', []),
-            'footer_columns' => Setting::get('footer_columns', []),
+            'footer_columns' => $footerCols,
         ]);
     }
 
